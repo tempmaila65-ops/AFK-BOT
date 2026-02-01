@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-afk-bot-leou3",
+  "version": "1.0.0",
+  "description": "Advanced 24/7 AFK Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Leou3",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.20.1"
+  }
+}

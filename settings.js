@@ -6,7 +6,7 @@ module.exports = {
     auth: "offline"
   },
   bot: {
-    usernamePrefix: "AFK Bot",
+    usernamePrefix: "AFK-BOT",
     usernameRandomDigits: 3
   },
   antiAFK: {
@@ -18,3 +18,4 @@ module.exports = {
   }
 
 };
+

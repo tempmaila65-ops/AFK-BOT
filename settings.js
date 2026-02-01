@@ -1,8 +1,8 @@
 module.exports = {
   server: {
-    host: "yourserver.aternos.me",
-    port: 25565,
-    version: "1.20.4",
+    host: "leou3.aternos.me",
+    port: 22143,
+    version: "1.18.2",
     auth: "offline"
   },
   bot: {
@@ -16,4 +16,5 @@ module.exports = {
   reconnect: {
     delayMs: 8000
   }
+
 };

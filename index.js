@@ -3,7 +3,7 @@ const config = require("./settings");
 const startMovement = require("./movement");
 
 function createBot() {
-  const username = config.bot.usernamePrefix + Math.floor(Math.random() * 999);
+  const username = config.bot.username;
 
   const bot = mineflayer.createBot({
     host: config.server.host,

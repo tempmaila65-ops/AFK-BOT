@@ -6,8 +6,7 @@ module.exports = {
     auth: "offline"
   },
   bot: {
-    usernamePrefix: "AFK-BOT",
-    usernameRandomDigits: 3
+    username: "AFK-Bot"
   },
   antiAFK: {
     minDelayMs: 5500,
@@ -16,6 +15,6 @@ module.exports = {
   reconnect: {
     delayMs: 8000
   }
-
 };
+
 

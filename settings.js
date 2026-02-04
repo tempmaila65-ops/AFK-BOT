@@ -1,7 +1,7 @@
 module.exports = {
   server: {
-    host: "leou3.aternos.me",
-    port: 22143,
+    host: "leou.falixsrv.me",
+    port: 21411,
     version: "1.18.2",
     auth: "offline"
   },
@@ -16,5 +16,6 @@ module.exports = {
     delayMs: 8000
   }
 };
+
 
 
